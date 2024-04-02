@@ -1,6 +1,7 @@
 # Typing-Master
 
 Typing Speed Test
+
 This Python project is designed for individuals who want to assess and improve their typing speed. Whether you’re a seasoned programmer or a beginner, practicing accurate and swift typing is essential. Here are some key features of this project:
 
 Features:
